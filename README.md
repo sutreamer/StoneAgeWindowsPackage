@@ -1,1 +1,1 @@
-[![Watch the video]](https://github.com/sutreamer/StoneAgeWindowsPackage/%EA%B5%AC%EB%8F%99%EC%98%81%EC%83%81.mkv)
+[<img src="https://github.com/sutreamer/StoneAgeWindowsPackage/구동사진.png" width="50%">](https://github.com/sutreamer/StoneAgeWindowsPackage/구동영상.mp4 "Now in Android: 55")
