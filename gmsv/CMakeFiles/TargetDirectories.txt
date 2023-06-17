@@ -1,0 +1,3 @@
+/home/USER/sa/gmsv/CMakeFiles/gmsv.dir
+/home/USER/sa/gmsv/CMakeFiles/edit_cache.dir
+/home/USER/sa/gmsv/CMakeFiles/rebuild_cache.dir
