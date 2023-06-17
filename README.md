@@ -1,1 +1,1 @@
-[<img src="/sutreamer/StoneAgeWindowsPackage/blob/main/%EA%B5%AC%EB%8F%99%EC%82%AC%EC%A7%84.png?raw=true" width="50%">](https://github.com/sutreamer/StoneAgeWindowsPackage/구동영상.mp4 "Now in Android: 55")
+[<img src="https://i.imgur.com/hn4cNER.png" width="50%">](https://www.youtube.com/watch?v=48zevrg9ixQ "유튜브 이동")
